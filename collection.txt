@@ -673,7 +673,6 @@ Crabominable
 Oricorio
 Cutiefly
 Ribombee
-Rockruff
 Lycanroc
 Wishiwashi
 Mareanie
