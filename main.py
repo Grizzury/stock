@@ -198,6 +198,12 @@ async def on_message(message):
             if solution:
                 await move_channel(channel, solution, 'Gmax')
         
+       #If still not found, check for Rockruff Pokémon
+        if not solution:
+             solution = solve(content, 'rockruff.txt')
+             if solution:
+                await move_channel (channel, solution, 'Rockruff')       
+                 
     # auto delete caught pokemon
     if message.author.id == poketwo:
         content = message.content
