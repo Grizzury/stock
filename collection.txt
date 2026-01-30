@@ -438,7 +438,7 @@ Leafeon
 Glaceon
 Gliscor
 Mamoswine
-Porygonz
+Porygon-z
 Gallade
 Probopass
 Dusknoir
