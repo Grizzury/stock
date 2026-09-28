@@ -188,7 +188,6 @@ Pineco
 Forretress
 Dunsparce
 Gligar
-Steelix
 Snubbull
 Granbull
 Qwilfish
@@ -231,7 +230,6 @@ Grovyle
 Sceptile
 Torchic
 Combusken
-Blaziken
 Mudkip
 Marshtomp
 Swampert
